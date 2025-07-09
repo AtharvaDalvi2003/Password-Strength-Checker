@@ -94,5 +94,3 @@ This project is open-source and available under the MIT License.
 
 <img width="617" height="621" alt="Image" src="https://github.com/user-attachments/assets/d88ab329-d02f-468f-b768-72900950e190" />
 
----
-
