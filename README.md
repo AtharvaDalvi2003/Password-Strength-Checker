@@ -61,28 +61,18 @@ pip install nltk
 Follow these steps:
 
 1. Clone the repository
+```
 git clone https://github.com/your-username/password-strength-checker.git
 cd password-strength-checker
 
 2.Install dependencies
+
 pip install nltk
 
 3.Run the script
+
 python password_checker.py
-```
----
 
-### 📈 Expected Outcome
-
-An interactive app that:
-
-Notifies users if their password is weak, moderate, or strong
-
-Gives real-time suggestions for improvement
-
-Optionally detects if passwords are dictionary-based
-
----
 ```
 ---
 ## 🧾 License
