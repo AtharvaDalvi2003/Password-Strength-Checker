@@ -69,7 +69,9 @@ pip install nltk
 
 3.Run the script
 python password_checker.py
+```
 ---
+
 ### 📈 Expected Outcome
 
 An interactive app that:
