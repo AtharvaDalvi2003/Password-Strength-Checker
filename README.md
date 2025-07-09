@@ -64,13 +64,13 @@ Follow these steps:
 ```
 git clone https://github.com/your-username/password-strength-checker.git
 cd password-strength-checker
-
+```
 2.Install dependencies
-
+```
 pip install nltk
-
+```
 3.Run the script
-
+```
 python password_checker.py
 
 ```
