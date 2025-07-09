@@ -32,6 +32,7 @@ pip install nltk
 ```
 ---
 ## Features
+
 🔍 Strength Analysis: Evaluates password based on:
 
 Length (minimum 8 characters)
@@ -55,6 +56,7 @@ Presence of digits and special characters
 ```
 ---
 ### 📁 How to Run
+
 Clone this repository:
 
 bash
@@ -71,6 +73,7 @@ python password_checker.py
 ```
 ---
 ### 📈 Expected Outcome
+
 An interactive app that:
 
 Notifies users if their password is weak, moderate, or strong
@@ -81,8 +84,11 @@ Optionally detects if passwords are dictionary-based
 ```
 ---
 ### License
+
 This project is open-source and available under the MIT License.
+```
 ---
 ### Screenshot
+
 <img width="617" height="621" alt="Image" src="https://github.com/user-attachments/assets/d88ab329-d02f-468f-b768-72900950e190" />
-```
+---
