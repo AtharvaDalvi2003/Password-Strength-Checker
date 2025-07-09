@@ -62,7 +62,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/password-strength-checker.git
+git clone https://github.com/AtharvaDalvi2003/Password-Strength-Checker.git
 cd password-strength-checker
 Run the application:
 
@@ -72,6 +72,7 @@ Edit
 python password_checker.py
 ---
 ```
+---
 ### 📈 Expected Outcome
 
 An interactive app that:
@@ -85,12 +86,13 @@ Optionally detects if passwords are dictionary-based
 ---
 ```
 ---
-### License
+### 🧾 License
+
 This project is open-source and available under the MIT License.
 ---
 
 ---
-### Screenshot
+### 📸 Screenshot
 
 <img width="617" height="621" alt="Image" src="https://github.com/user-attachments/assets/d88ab329-d02f-468f-b768-72900950e190" />
 
