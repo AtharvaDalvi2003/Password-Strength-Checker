@@ -70,7 +70,7 @@ bash
 Copy
 Edit
 python password_checker.py
-```
+``
 ---
 ### 📈 Expected Outcome
 
@@ -81,12 +81,12 @@ Notifies users if their password is weak, moderate, or strong
 Gives real-time suggestions for improvement
 
 Optionally detects if passwords are dictionary-based
-```
+``
 ---
 ### License
 
 This project is open-source and available under the MIT License.
-```
+``
 ---
 ### Screenshot
 
