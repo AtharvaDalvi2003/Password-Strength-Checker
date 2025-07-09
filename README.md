@@ -26,12 +26,11 @@ To create an interactive tool that:
 ## 📦 Requirements
 
 Before running the app, ensure you have the following installed:
-
-```bash
+```
+bash
 pip install nltk
 ```
 ---
-
 ## Features
 
 🔍 Strength Analysis: Evaluates password based on:
@@ -47,18 +46,15 @@ Presence of digits and special characters
 ✍️ Suggestions: Offers tips for making weak passwords stronger
 
 👁️ Password Visibility Toggle
-```
 ---
-
+```
 ## ✅ User-friendly interface
 
 | Weak Password                     | Strong Password                       |
 | --------------------------------- | ------------------------------------- |
 | ![weak](assets/weak_password.png) | ![strong](assets/strong_password.png) |
-
 ```
 ---
-
 ## 📁 How to Run
 
 Clone this repository:
@@ -74,9 +70,8 @@ bash
 Copy
 Edit
 python password_checker.py
-```
 ---
-
+```
 ### 📈 Expected Outcome
 
 An interactive app that:
@@ -86,13 +81,13 @@ Notifies users if their password is weak, moderate, or strong
 Gives real-time suggestions for improvement
 
 Optionally detects if passwords are dictionary-based
+
 ---
 ```
 ### License
 This project is open-source and available under the MIT License.
-```
 ---
-
+```
 ### Screenshot
 
 <img width="617" height="621" alt="Image" src="https://github.com/user-attachments/assets/d88ab329-d02f-468f-b768-72900950e190" />
