@@ -87,7 +87,6 @@ Optionally detects if passwords are dictionary-based
 
 ## 🧾 License
 This project is open-source and available under the MIT License.
----
 
 ---
 
