@@ -58,22 +58,17 @@ pip install nltk
 ```
 ---
 ## 📁 How to Run
+Follow these steps:
 
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/AtharvaDalvi2003/Password-Strength-Checker.git
+1. Clone the repository
+git clone https://github.com/your-username/password-strength-checker.git
 cd password-strength-checker
-Run the application:
 
-bash
-Copy
-Edit
+2.Install dependencies
+pip install nltk
+
+3.Run the script
 python password_checker.py
----
-```
 ---
 ### 📈 Expected Outcome
 
