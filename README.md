@@ -31,24 +31,26 @@ bash
 pip install nltk
 ```
 ---
-## Features
+## 🔍 Features
 
-🔍 Strength Analysis: Evaluates password based on:
+-Strength Analysis
 
-Length (minimum 8 characters)
+-Length (minimum 8 characters)
 
-Use of uppercase and lowercase letters
+-Use of uppercase and lowercase letters
 
-Presence of digits and special characters
+-Presence of digits and special characters
 
-🟢 Visual Feedback: Displays strength using colored bar and percentage
+🟢 Visual Feedback – Displays strength using colored bar and percentage
 
-✍️ Suggestions: Offers tips for making weak passwords stronger
+✍️ Suggestions – Offers tips for making weak passwords stronger
 
 👁️ Password Visibility Toggle
+
+✅ User-friendly Interface
 ---
 ```
-## ✅ User-friendly interface
+## 🖼️ Interface Preview
 
 | Weak Password                     | Strong Password                       |
 | --------------------------------- | ------------------------------------- |
